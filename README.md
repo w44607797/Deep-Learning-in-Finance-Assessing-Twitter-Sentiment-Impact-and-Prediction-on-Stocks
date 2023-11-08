@@ -4,3 +4,5 @@ In order to run the code initially, first you need to get the model in the link 
 To complete the stock price-sentiment correlation experiment, you need to visit the link (https://www.kaggle.com/code/equinxx/stock-prediction-gan-twitter-sentiment-analysis/input) to get the paper's reference to the The second dataset, followed by running the predict.ipynb file is sufficient. If you want to get the AAPL results from the paper, you need to visit the link (https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020/data?select=Company.csv) and (https://www.kaggle.com/datasets/omermetinn/values-of-top-nasdaq-copanies-from-2010-to-2020) and subsequently run the predict2.ipynb code.
 
 Regarding the latter two experiments, you can see the contents directly in the ipynb file without trying to run it.
+
+If you have any questions feel free to contact me, and if you find this job helpful, I hope to get your STAR!
