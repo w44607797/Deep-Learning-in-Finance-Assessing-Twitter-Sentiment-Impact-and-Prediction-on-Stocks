@@ -5,4 +5,6 @@ To complete the stock price-sentiment correlation experiment, you need to visit 
 
 Regarding the latter two experiments, you can see the contents directly in the ipynb file without trying to run it.
 
+The paper on this experiment is under review, and I'll post a link to it subsequently
+
 If you have any questions feel free to contact me, and if you find this job helpful, I hope to get your STAR!
